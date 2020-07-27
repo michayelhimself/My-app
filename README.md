@@ -1,2 +1,2 @@
-My app
+My app \n
 THis is may file
